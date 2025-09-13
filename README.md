@@ -1,1 +1,2 @@
-## Multiclass-Diabetes-Prediction
+## End To End ML Project
+## Student score predcition
